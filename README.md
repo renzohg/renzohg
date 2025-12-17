@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrgiann&color=C9A24D">
+  <img src="https://komarev.com/ghpvc/?username=mrgiann&color=gray">
 </p>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-renzo-roggiapane.netlify.app/)
