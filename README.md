@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1000&color=050F2C&center=true&vCenter=true&width=700&height=70&lines=Hi!+Im+Renzohg;I'm+Software+Developer%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=40&pause=1000&color=050F2C&stroke=FFFFFF&strokeWidth=2&center=true&vCenter=true&width=700&height=70&lines=Hi!+Im+Renzohg;I'm+Software+Developer%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
 
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mrgiann&color=blueviolet">
