@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrgiann&color=gray">
+  <img src="https://komarev.com/ghpvc/?username=renzohg&color=gray">
 </p>
 
 - 👨‍💻 Explore my work and projects on my personal portfolio: **[portafolio-renzo-roggiapane.netlify.app](https://portafolio-renzo-roggiapane.netlify.app/)**
@@ -19,10 +19,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/mrgiann">
+<a href="https://github.com/renzohg">
 
 <p align="center">
-<a href="https://github.com/mrgiann">
+<a href="https://github.com/renzohg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renzohg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renzohg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
