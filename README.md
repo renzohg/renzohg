@@ -8,11 +8,19 @@
 
 ### 📩 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/renzo-roggiapane-bb4520279" target="blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzo roggiapane" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/renzo-roggiapane-bb4520279" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="renzo roggiapane"
+         height="30"
+         width="40"
+         style="display:inline-block; margin-right:15px;" />
   </a>
-  <a href="https://instagram.com/renzo_hg" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renzo_hg" height="30" width="40" />
+  <a href="https://instagram.com/renzo_hg" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="renzo_hg"
+         height="30"
+         width="40"
+         style="display:inline-block;" />
   </a>
 </p>
 
